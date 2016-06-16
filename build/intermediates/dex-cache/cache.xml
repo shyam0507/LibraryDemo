@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nuevothoughts-mac1/AndroidStudioProjects/DataLoaderTest/app/build/intermediates/exploded-aar/com.github.shyam0507/dataloader/0.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="94cb99dff5610f1cb87908933b44c5031c20a8b4">
+        <dex dex="/Users/nuevothoughts-mac1/AndroidStudioProjects/DataLoaderTest/app/build/intermediates/pre-dexed/debug/com.github.shyam0507-dataloader-0.0.1_39175b8bb74fdda8d96370ee332506f7e8342b79.jar" />
+    </item>
+
+</items>
